@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Noah Rodriguez
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React and UI/UX
+- 📫 noaherod18@gmail.com
