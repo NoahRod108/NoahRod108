@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Noah Rodriguez
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new technologies
-- 📫 noaherod18@gmail.com
+- 📫 noaherodriguez18@gmail.com
